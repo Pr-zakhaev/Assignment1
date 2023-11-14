@@ -1,2 +1,4 @@
 # Assignment1
-Assignment from "Tools For Data Science" Module
+You will find here my submission for the program's 6th week assignment.
+Please, do not hesitate to report any improvement that I could have made.
+Jules
